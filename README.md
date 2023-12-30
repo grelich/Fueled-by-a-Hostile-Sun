@@ -3,6 +3,6 @@
 2. Rules light but exciting system for Environmental Encounters that encourages risk vs reward decisions.
 3. Currency system that allows easy tracking of resources mined from the planet.   Find alien creatures to produce even rarer resources - maybe even the Prime Matter- unlimited potential- itself.  
 4. Character Sheets fit on one index card.
-5. 5. ORC Licensed
+5. ORC Licensed
   
 [https://muckraker.itch.io/under-a-hostile-sun](https://muckraker.itch.io/under-a-hostile-sun)
